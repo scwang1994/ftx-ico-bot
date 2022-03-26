@@ -1,0 +1,8 @@
+{
+    "apiKey": "yourKey",
+    "secret": "yourSecret",
+    "subAccount": "subAccount",
+    "symbol": "CTX/USD",
+    "price": 1,
+    "amount": 100
+}
